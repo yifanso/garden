@@ -1,10 +1,11 @@
 package com.garden.lily.server;
 
+import com.graden.lily.server.Application;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class LilyApplicationTests {
+@SpringBootTest(classes = Application.class)
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

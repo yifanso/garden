@@ -13,9 +13,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.garden</groupId>
-	<artifactId>lily</artifactId>
+	<artifactId>garden</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>lily</name>
+	<name>garden</name>
 	<description>Demo project for Spring Boot Eureka</description>
 
 	<properties>
